@@ -24,4 +24,4 @@ parameters: `phrases, column_names, is_regex` 🏭
 ## NLP Tasks
 
 1. **TopicModeling.ipynb** - topic modeling task solved based on `BERTopic` library. 
-                             Provides you with topics and topic probabilities for the documents given. 🏭
+Provides you with topics and topic probabilities for the documents given. 🏭
