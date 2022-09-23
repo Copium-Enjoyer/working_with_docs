@@ -6,7 +6,7 @@ For now, these are stored in a note
 # 🍱 - Scripts
 
 ## Operations on files
-*It would be a good idea to fit all of this functionality into one file*
+*It would be a good idea to fit all of this functionality into a single file*
 
 1. **get_txt.ipynb** - retrieves text to txt file using `docx2txt` 🏭
 2. **get_text_to_df.ipynb** - retrieves text from a docx file to a `pandas` dataframe using `docx2txt
