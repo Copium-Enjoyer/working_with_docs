@@ -1,7 +1,7 @@
 # Working with Documents
 Scripts and resources for working with documents
 
-For now, these are stored in a note
+For now, these are stored in jupyter notebooks
 
 # 🍱 - Scripts
 
